@@ -1,0 +1,5 @@
+Small simple icq client with base functionality
+
+Netcode wrote by myself.
+In result used MVS and MFC.
+There are some restioctions like message length (must be less than 256 symbols), no smiles, etc.
